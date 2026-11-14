@@ -1,4 +1,4 @@
-# Onyx — A Zero-Subscription Web Agent & Deep-Research Engine in Go
+# Onyx — Deep-Research Engine in Go
 
 ![Go](https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=flat-square&logo=go)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
